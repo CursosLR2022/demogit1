@@ -1,2 +1,2 @@
 # demogit1
-demo subir a remoto carpeta local ProyectoGit
+Proyecto descargado del repositorio remoto hacia local. 
